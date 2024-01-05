@@ -1,6 +1,7 @@
 # dungeonescape
  How to Compile:
  Compile: g++ -std=c++17 Inventory.cpp Map.cpp Merchant.cpp Party.cpp Player.cpp dungeonEscape.cpp 
+ 
  Run: ./a.out
 
  Dependencies:
